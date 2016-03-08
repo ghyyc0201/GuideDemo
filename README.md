@@ -1,0 +1,2 @@
+# GuideDemo
+Android中使用getChildAt方法，不写子布局的情况下开发引导页
